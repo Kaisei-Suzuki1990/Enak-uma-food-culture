@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.flagContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flag {
+  width: 15%;
+  height: auto;
+}

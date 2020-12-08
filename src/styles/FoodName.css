@@ -1,0 +1,10 @@
+.cuisine-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .cuisine {
+    font-size: 2em;
+  }
+  
+  
